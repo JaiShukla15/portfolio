@@ -47,11 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with more than 3.10 years experience in TypeScript and
-        JavaScript, and expertise in frameworks like Angular, Node.js, and
-        Express Js , mongodb, Postgres, git. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I'm a Lead Software Engineer with 6+ years of experience building scalable, high-performance, and user-centric web applications. My expertise spans React, Redux, Next.js, Angular, TypeScript, JavaScript, Three.js, React Three Fiber, Node.js, Express.js, HTML5, CSS3, SCSS, Tailwind CSS, Material UI, and REST APIs. I also have hands-on experience with PostgreSQL, MongoDB, Redis, Git, Webpack, Micro-Frontends, AWS, Azure, CI/CD pipelines, and possess a strong foundation in Data Structures & Algorithms (DSA), enabling me to design efficient, optimized, and scalable software solutions.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
