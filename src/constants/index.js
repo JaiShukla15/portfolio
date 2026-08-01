@@ -116,11 +116,11 @@ const experiences = [
     iconBg: "#383E56",
     date: "April 2022 - August 2023",
     points: [
-      "Developing and maintaining web applications using Angular, Node and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility. with Offline compatibilities",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-      "Writing REST APIs using express Js",
+      "Developed scalable, responsive, and reusable UI components using React.js, Angular, Redux, TypeScript, HTML5, SCSS, and Micro Frontend architecture, ensuring a seamless cross-browser and cross-device experience.",
+      "Built dynamic forms with advanced client-side validation, Redux state management, and offline support, improving application maintainability, scalability, and user experience.",
+      "Designed and developed secure RESTful APIs using Node.js and Express.js, optimizing data integration and improving application performance by 30%.",
+      "Integrated WebSocket-based real-time features including live notifications, messaging, and data synchronization for highly interactive enterprise applications.",
+      "Collaborated with cross-functional teams, participated in code reviews, and followed best practices to deliver high-quality, performant, and maintainable software solutions.",
 
     ],
   },
@@ -131,7 +131,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "April 2022 - August 2023",
     points: [
-      "Developing and maintaining web applications using Angular, Node and other related technologies.",
+      "Developed a web applications using technologies like React, Node,Express.js,MongoDB,Redix Angular,Rxjs,PWA,Html,Css,Javascript.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility. with Offline compatibilities",
       "Participating in code reviews and providing constructive feedback to other developers.",
