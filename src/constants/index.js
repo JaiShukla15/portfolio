@@ -55,6 +55,18 @@ const services = [
 
 const technologies = [
   {
+    name: "React JS",
+    icon: reactjs,
+  },
+  {
+    name: "TypeScript",
+    icon: typescript,
+  },
+  {
+    name: "JavaScript",
+    icon: javascript,
+  },
+  {
     name: "Angulars",
     icon: angular,
   },
@@ -65,18 +77,6 @@ const technologies = [
   {
     name: "CSS 3",
     icon: css,
-  },
-  {
-    name: "JavaScript",
-    icon: javascript,
-  },
-  {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
-    name: "React JS",
-    icon: reactjs,
   },
   {
     name: "Redux Toolkit",
@@ -304,7 +304,7 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-         name: "PowerBi",
+        name: "PowerBi",
         color: "yellow-text-gradient",
       }
     ],
